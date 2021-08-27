@@ -1,4 +1,3 @@
-import { type } from "language-tags";
 import styles from "./Button.module.css";
 
 const Button = (props) => {
